@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:messages_app/auth/auth_service.dart';
+import 'package:messages_app/services/auth/auth_service.dart';
 import 'package:messages_app/componenets/my_button.dart';
 import 'package:messages_app/componenets/my_textfield.dart';
 
