@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+![Alt text]([URL](https://github.com/inder-7/messages_app/blob/master/screenshots/Screenshot_2024-12-29-19-41-38-93_0456e33a2890ddc1ac7850df5c757341.jpg))
+![Alt text]([URL(https://github.com/inder-7/messages_app/blob/master/screenshots/Screenshot_2024-12-29-19-41-54-14_0456e33a2890ddc1ac7850df5c757341.jpg))
+![Alt text]([URL](https://github.com/inder-7/messages_app/blob/master/screenshots/Screenshot_2024-12-29-19-41-38-33_0456e33a2890ddc1ac7850df5c757341.jpg))
+![Alt text]([URL](https://github.com/inder-7/messages_app/blob/master/screenshots/Screenshot_2024-12-29-19-41-38-61_0456e33a2890ddc1ac7850df5c757341.jpg))
+
+
 
 ## Getting Started
 
